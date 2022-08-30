@@ -10,8 +10,8 @@ const location = useLocation();
   return (
     <AnimatePresence initial={true} exitBeforeEnter>
     <Routes location={location} key={location.pathname}>
-      <Route path='/' element={<MainPage/>}/>
-      <Route path='/:id' element={<InternshipPage/>}/>
+      <Route path='portfoliov3/' element={<MainPage/>}/>
+      <Route path='portfoliov3/:id' element={<InternshipPage/>}/>
     </Routes>
     </AnimatePresence>
   )
