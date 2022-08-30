@@ -1,0 +1,1 @@
+{"version":3,"file":"static/css/main.5c7ca816.css","mappings":"qDACA,EACE,QAAS,CAET,SAAS,CADT,SAEF,CACA,MAEE,gCAAqC,CADrC,aAEF","sources":["index.css"],"sourcesContent":["@import url('http://fonts.cdnfonts.com/css/sofia-pro');\n*{\n  margin: 0;\n  padding: 0;\n  outline:0;\n}\n#root{\n  margin:0 auto;\n  font-family:  'Sofia Pro', sans-serif;\n}"],"names":[],"sourceRoot":""}
