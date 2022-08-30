@@ -1,0 +1,10 @@
+@import url('http://fonts.cdnfonts.com/css/sofia-pro');
+*{
+  margin: 0;
+  padding: 0;
+  outline:0;
+}
+#root{
+  margin:0 auto;
+  font-family:  'Sofia Pro', sans-serif;
+}
