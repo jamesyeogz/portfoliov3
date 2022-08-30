@@ -14,7 +14,7 @@ export const Panasonic ={
         'Integrated many IOT sensors into the system using RS232 Ports along UDP/TCP Protocols',
         'Improved the Dashboard for the System'
     ],
-    link: '/2'
+    link: '/portfoliov3/2'
 }
 
 export const NEC ={
@@ -31,6 +31,6 @@ export const NEC ={
         'Contributed in real life Settings of the Lidar Sensors to test the sensors and its limitation',
         'Set up PostGres SQL for the systems and Debugged some application for the system'
     ],
-    link: '/1'
+    link: '/portfoliov3/1'
 }
 
